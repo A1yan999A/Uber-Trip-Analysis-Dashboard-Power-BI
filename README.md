@@ -163,15 +163,18 @@ Disconnected table used for:
 Uber-Trip-Analysis-PowerBI/
 │
 ├── Dashboard Screenshots/
-│   ├── overview-dashboard.png
-│   ├── time-analysis-dashboard.png
-│   ├── details-dashboard.png
-│   └── data-model.png
+│   ├── overview.png
+│   ├── Time Analysis.png
+│   ├── details.png
+│   └── Data Model.png
 │
 ├── Dataset/
-│   └── uber_trip_data.xlsx
+│   └── Uber Trip Details.CSV
+|    └──Location Table.CSV
 │
-├── Uber_Trip_Analysis.pbix
+├── Uber_trip
+|        └──Problem Statement.docx
+|         └──Uber_trip.pbix
 │
 └── README.md
 
