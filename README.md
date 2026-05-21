@@ -78,7 +78,6 @@ Provides detailed trip-level records for granular analysis.
 - CALCULATE()
 - SUM()
 - SUMX()
-- SWITCH()
 - DIVIDE()
 - SELECTEDVALUE()
 - USERELATIONSHIP()
